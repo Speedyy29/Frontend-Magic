@@ -1,8 +1,8 @@
 # Frontend-Magic
 My Internship projects for Motion Cut
-"Hey everyone! I'm excited to share with you the completion of an amazing project I've been working on this week.
+Hey everyone! I'm excited to share with you the completion of an amazing project I've been working on this week.
 I had the opportunity to design and build a professional website for a small business as part of my internship
-The website is now live and it looks fantastic! 🌟 Here's a quick overview of what I've accomplished:
+The website is now live and it looks fantastic! Here's a quick overview of what I've accomplished:
 
 Homepage: I created a captivating homepage that introduces the business and showcases its key offerings. It's designed to make a great first impression and grab visitors' attention right away.
 Services/Products Page: I developed a dedicated page that provides detailed information about the business's services/products. It includes engaging descriptions, eye-catching images, and even pricing details for those interested.
