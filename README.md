@@ -1,5 +1,5 @@
 # Frontend-Magic
-My Internship projects for Motion Cut
+My Internship project Task 1 for Motion Cut
 Hey everyone! I'm excited to share with you the completion of an amazing project I've been working on this week.
 I had the opportunity to design and build a professional website for a small business as part of my internship
 The website is now live and it looks fantastic! Here's a quick overview of what I've accomplished:
