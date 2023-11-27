@@ -1,10 +1,45 @@
-# Frontend-Magic
-My Internship project Task 1 for Motion Cut
-Hey everyone! I'm excited to share with you the completion of an amazing project I've been working on this week.
-I had the opportunity to design and build a professional website for a small business as part of my internship
-The website is now live and it looks fantastic! Here's a quick overview of what I've accomplished:
+Sneaker Store Website
+This repository contains the source code for a website of an online sneaker store selling popular shoe brands.
 
-Homepage: I created a captivating homepage that introduces the business and showcases its key offerings. It's designed to make a great first impression and grab visitors' attention right away.
-Services/Products Page: I developed a dedicated page that provides detailed information about the business's services/products. It includes engaging descriptions, eye-catching images, and even pricing details for those interested.
-About Us Page: I designed a page that tells the inspiring story of the business, its mission, and introduces the amazing team behind it. It's a great way for visitors to connect with the business on a personal level.
-Contact Page: I set up a user-friendly contact page that includes a contact form for inquiries. It also features the business's physical address and contact details, making it easy for potential customers to get in touch.
+Contents
+The website consists of the following pages:
+
+Home - Landing page with introductory content
+Services - Details the various services offered by the store
+Clients - Logos of notable clients/brands the store carries
+Contact - Contact form to get in touch with queries Features
+
+Some key features of the website:
+
+Responsive design working on mobile and desktop
+Easy navigation menu with smooth scrolling
+Stylized page sections with images and icons
+Web form validation for message submissions
+Footer containing copyright information
+Code
+
+Key web languages, frameworks and tools used:-
+
+HTML
+CSS
+JavaScript
+FontAwesome Icons
+Google Fonts
+Usage
+
+- To view the website simply open index.html in your preferred browser.
+
+- To make edits, modify the HTML, CSS and JavaScript files included in their respective folders.
+
+- Images are stored separately under /img/ and font assets in /fonts/.
+
+Customization:-
+The structure of the website makes it easy to customize for your own needs:
+
+Change colors, fonts, styles in main.css
+Add or remove pages by editing index.html
+Replace images and text content site-wide
+Update footer and navigation links
+This simple website template can be adapted for any retail business with some tweaking. Clone this repo to get started!
+
+Let me know if you have any other questions!
