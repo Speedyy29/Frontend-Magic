@@ -21,13 +21,10 @@ Some key features of the website include:
 Key web languages, frameworks, and tools used:
 - **HTML**
 - **CSS**
-- **JavaScript**
-- **FontAwesome Icons**
-- **Google Fonts**
 
 ### 🚀 Usage
 - **Viewing the Website:** Simply open `index.html` in your preferred browser.
-- **Editing:** Modify the HTML, CSS, and JavaScript files included in their respective folders.
+- **Editing:** Modify the HTML and CSS files included in their respective folders.
 - **Assets:** Images are stored under `/img/` and font assets under `/fonts/`.
 
 ### 🛠️ Customization
