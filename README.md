@@ -1,3 +1,6 @@
+![Screenshot 2024-07-04 215025](https://github.com/Speedyy29/Sneaker-store-website/assets/126769340/b80089b7-3558-4d20-a7b1-ac6cb9bfba74)
+![Screenshot 2024-07-04 215048](https://github.com/Speedyy29/Sneaker-store-website/assets/126769340/1eae6129-88ec-446d-b222-5ff6db80dc57)
+
 ## 👟 Sneaker Store Website
 
 Welcome to the Sneaker Store Website repository! This project contains the source code for an online sneaker store, offering popular shoe brands with a modern and responsive design.
